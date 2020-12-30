@@ -1,0 +1,5 @@
+http://localhost:8888/check?book=go-zero
+
+###
+http://localhost:8888/add?book=go-zero&price=10
+
